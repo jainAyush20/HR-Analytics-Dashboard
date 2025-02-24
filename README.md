@@ -1,7 +1,9 @@
 # HR-Analytics-Dashboard
 I developed this project using PowerBi , creating multiple dashboards and tables to analyze the data. This process involved several stages including data cleaning, data preprocessing and data visualization.
 
-Project Overview ✤ The task involves developing key performance indicators (KPIs) related to HR metrics such as employee satisfaction, turnover, retention, recruitment, and diversity, along with creating a dashboard to track and communicate progress.
+Project Overview 
+✤ The task involves developing key performance indicators (KPIs) related to HR metrics such as employee satisfaction, turnover, retention, recruitment, and diversity, along with creating a dashboard to track and communicate progress.
+
 ✤ This project focuses on analyzing HR data to gain insights into employee performance, retention rates, recruitment effectiveness, and workforce diversity. The goal is to provide HR leaders and stakeholders with the tools to optimize workforce management, improve employee satisfaction, and align HR practices with organizational goals.
 
 Data Source: HR Analytics Data
